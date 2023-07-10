@@ -7,7 +7,7 @@ public class PDFMain extends Application {
     public static void main(String[] args) {
     	Application.launch(args);
         //launch(args);
-    }
+    }//test
     
     @Override
     public void start(Stage primaryStage) {
