@@ -8,7 +8,7 @@ public class PDFMain extends Application {
     	Application.launch(args);
         //launch(args);
     }
-
+    
     @Override
     public void start(Stage primaryStage) {
         Home home = new Home();
