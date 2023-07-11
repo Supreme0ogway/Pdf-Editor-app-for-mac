@@ -3,7 +3,7 @@ This is a fully functional pdf editor for mac. The bundle will be included or if
 
 **Bundle link to google drive for download for full completed app:**
 https://drive.google.com/file/d/1hQN0ZngRa_uk5tp0a_SMIAnivumeEsvf/view?usp=sharing
-- Requirements: you must have the newest version of Java to run
+- Requirements: you must have the newest version of Java JDK to run
 - After downloading the program it will say it is by an unitentified dev. I did not add a signature to the code. Just press the ignore buttons or run anyway.
 
 ******************************************************************************************************************************
